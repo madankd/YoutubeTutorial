@@ -1,1 +1,2 @@
 Hi good day
+I'm now in git
